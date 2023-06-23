@@ -4,7 +4,7 @@
 
 ## 🖥️ Projeto
 
-Esse é um projeto Web no intuito de aprimorar meus conhecimentos em criação web. Este é um projeto de uma landingpage de uma academia.
+Esse é um projeto Web criado no intuito de aprimorar meus conhecimentos em criação web. Este é um projeto de uma landingpage de uma academia.
 
 ## 🚀 Tecnologias
 
