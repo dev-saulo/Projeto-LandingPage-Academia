@@ -5,6 +5,7 @@
 ## 🖥️ Projeto
 
 Esse é um projeto Web criado no intuito de aprimorar meus conhecimentos em criação web. Este é um projeto de uma landingpage de uma academia.
+O projeto está disponível através deste link https://dev-saulo.github.io/Projeto-LandingPage-Academia/
 
 ## 🚀 Tecnologias
 
